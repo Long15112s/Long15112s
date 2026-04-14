@@ -42,6 +42,22 @@ Ein deduktiver Solver für das Logikrätsel **Buraitoraito**, inklusive automati
 
 ---
 
+### ♟️ [Guard & Towers — Schach-KI](https://github.com/Long15112s/Guard-and-Towers-AI)
+> **Uni-Projekt @ TU Berlin**
+
+Ein visuelles Schachspiel mit GUI und mehreren KI-Modellen (RandomAI, AlphaBeta AI u.a.), entwickelt in C++.
+
+- 🧠 **KI-Modelle**: RandomAI, AlphaBeta AI mit verschiedenen Schwierigkeitsgraden
+- 🖼️ **GUI** mit SFML — spielbar mit PvP, PvE und AIvAI Modi
+- ⚡ **Bitboard-Engine** für schnelle Move-Generierung mit Benchmark & Unit-Tests
+
+[![Repo](https://img.shields.io/badge/GitHub-Guard--and--Towers--AI-181717?style=flat&logo=github)](https://github.com/Long15112s/Guard-and-Towers-AI)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=sfml&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+
+---
+
 ## 🛠️ Skills
 
 **Programmiersprachen**  
@@ -52,6 +68,7 @@ Ein deduktiver Solver für das Logikrätsel **Buraitoraito**, inklusive automati
 
 **Tools & Technologien**  
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=sfml&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Zoho](https://img.shields.io/badge/-Zoho-E42527?style=flat&logo=zoho&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
