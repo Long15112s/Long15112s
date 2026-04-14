@@ -4,13 +4,13 @@
 📍 Berlin, Deutschland
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-long-vu-luong-99517832b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Long15112s)
+[![GitHub followers](https://img.shields.io/github/followers/Long15112s?label=Followers&style=flat&logo=github)](https://github.com/Long15112s)
 
 ---
 
 ## 💼 Berufserfahrung
 
-**IT-Entwickler @ [FourEnergy GmbH](https://www.fourenergy.de)** *(Werkstudium, Juni–Nov. 2024 · Berlin)*  
+**IT-Entwickler @ FourEnergy GmbH** *(Werkstudium, Juni–Nov. 2024 · Berlin)*  
 - Anpassung & Erweiterung von Zoho-Anwendungen für interne Prozesse  
 - Entwicklung von Zoho Workflows zur Geschäftsprozessautomatisierung  
 - Datenvisualisierung & Dashboards mit Zoho Analytics und SQL  
@@ -35,6 +35,7 @@ Ein deduktiver Solver für das Logikrätsel **Buraitoraito**, inklusive automati
 - 🐍 **Instanzgenerierung** via Python — konfigurierbar nach Schwierigkeitsgrad (leicht → sehr schwer)
 - 📊 **Auswertung & Plots** mit Python-Skripten (CSV-basiert)
 
+[![Repo](https://img.shields.io/badge/GitHub-bachelor--buraitoraito-181717?style=flat&logo=github)](https://github.com/Long15112s/bachelor-buraitoraito)
 ![C++](https://img.shields.io/badge/-C++17-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python%203-3776AB?style=flat&logo=python&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
@@ -56,15 +57,6 @@ Ein deduktiver Solver für das Logikrätsel **Buraitoraito**, inklusive automati
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/Long15112s">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Long15112s&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long15112s&layout=compact&hide_border=true&theme=dark" />
-</a>
 
 ---
 
