@@ -16,7 +16,7 @@
 - Datenvisualisierung & Dashboards mit Zoho Analytics und SQL  
 - Excel-Projekt mit Makros & Buttons zur automatisierten Datenübernahme aus Zoho  
 
-**IT-Student @ [INTEGRIS LIMS GmbH](https://www.integris-lims.com)** *(Werkstudium, Sept. 2021–Sept. 2023 · Remote)*  
+**IT-Student @ INTEGRIS LIMS GmbH** *(Werkstudium, Sept. 2021–Sept. 2023 · Remote)*  
 - Entwicklung & Pflege von Frontend-Komponenten für Webanwendungen  
 - ETL-Skripte in Python zur effizienten Datenverarbeitung  
 - Programmierung & Testing von Anwendungen in Java  
@@ -61,7 +61,10 @@ Ein deduktiver Solver für das Logikrätsel **Buraitoraito**, inklusive automati
 
 ## 📊 GitHub Stats
 
-![Hoang Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Long15112s&show_icons=true&hide_border=true&theme=default)
+<a href="https://github.com/Long15112s">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Long15112s&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long15112s&layout=compact&hide_border=true&theme=dark" />
+</a>
 
 ---
 
