@@ -1,6 +1,6 @@
 # Hi, ich bin Hoang Long Vu Luong 👋
 
-🎓 **B.Sc. Informatik (2020–2025) @ TU Berlin**  
+🎓 **B.Sc. Informatik (2020–2026) @ TU Berlin**  
 📍 Berlin, Deutschland
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-long-vu-luong-99517832b/)
