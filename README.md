@@ -58,6 +58,22 @@ Ein visuelles Schachspiel mit GUI und mehreren KI-Modellen (RandomAI, AlphaBeta 
 
 ---
 
+### 🎨 [MeinBildbearbeiten — Bildverarbeitung](https://github.com/Long15112s/meinbildbearbeiten)
+> **Uni-Projekt @ TU Berlin**
+
+Ein Python-Bildbearbeitungsprogramm mit GUI und drei fortschrittlichen Algorithmen zur Bildmanipulation.
+
+- 🧑‍🎨 **Cartoon-Effekt** — Bilateral Filtering, DoG-Kantenerkennung & Farbquantisierung
+- ✂️ **Seam Carving** — Content-Aware Resizing durch Entfernen energiearmer Pfade
+- 🔄 **Patch Swapping** — Texturtransfer zwischen zwei Bildern
+
+[![Repo](https://img.shields.io/badge/GitHub-meinbildbearbeiten-181717?style=flat&logo=github)](https://github.com/Long15112s/meinbildbearbeiten)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
 ## 🛠️ Skills
 
 **Programmiersprachen**  
@@ -69,6 +85,8 @@ Ein visuelles Schachspiel mit GUI und mehreren KI-Modellen (RandomAI, AlphaBeta 
 **Tools & Technologien**  
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=sfml&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Zoho](https://img.shields.io/badge/-Zoho-E42527?style=flat&logo=zoho&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
